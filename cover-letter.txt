@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am a junior  with hands-on experience in Linux, Docker, and DevOps practices. In just 2 days, I built a complete portfolio including:
+
+• Ubuntu setup and bash scripting  
+• Nginx web server deployment  
+• Docker + Dockerfile + Docker Compose (Nginx + MySQL)  
+• MySQL database management in containers  
+• Professional PDF documentation in Thai and English  
+
+GitHub: https://github.com/d234mkikodo/linux-labs  
+Resume: [Attached PDF]
+
+I am eager to bring my rapid learning ability and practical skills to your team. Available for immediate relocation.
+
+Sincerely,  
+d234mkikodo  
+obenseat@yahoo.com
